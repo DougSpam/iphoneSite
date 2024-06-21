@@ -15,9 +15,8 @@ import {
     {
       id: 1,
       textLists: [
-        "Enter A17 Pro.",
-        "Game‑changing chip.",
-        "Groundbreaking performance.",
+        "O chip A17 Pro entra em cena.",
+        "E nada será como antes.",
       ],
       video: highlightFirstVideo,
       videoDuration: 4,

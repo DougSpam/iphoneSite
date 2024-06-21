@@ -9,7 +9,7 @@ import {
     yellowImg,
   } from "../utils";
   
-  export const navLists = ["Loja", "Mac", "iPhone", "Support"];
+  export const navLists = ["Loja", "Mac", "iPhone", "Suporte"];
   
   export const hightlightsSlides = [
     {

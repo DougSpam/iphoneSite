@@ -23,23 +23,23 @@ import {
     },
     {
       id: 2,
-      textLists: ["Titanium.", "So strong. So light. So Pro."],
+      textLists: ["Titanium. Muito robusto Muito leve. Tão Pro."],
       video: highlightSecondVideo,
       videoDuration: 5,
     },
     {
       id: 3,
       textLists: [
-        "iPhone 15 Pro Max has the",
-        "longest optical zoom in",
-        "iPhone ever. Far out.",
+        "iPhone 15 Pro Max.",
+        "De longe, o maior zoom óptic.",
+        "em um iPhone",
       ],
       video: highlightThirdVideo,
       videoDuration: 2,
     },
     {
       id: 4,
-      textLists: ["All-new Action button.", "What will yours do?."],
+      textLists: ["Novo botão de Ação.", "O que você quer que ele faça?"],
       video: highlightFourthVideo,
       videoDuration: 3.63,
     },
